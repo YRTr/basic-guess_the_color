@@ -1,0 +1,44 @@
+﻿body {
+  background-color: #696969;
+}
+#display {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background: #D3D3D3;
+}
+button {
+  border: none;
+  color: #4682B4;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+}
+#message {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: bold;
+}
+header {
+  text-align: center;
+  padding: 15px;
+}
+#heading {
+  font-family: "Ubuntu", sans-serif;
+  color: #F5F5F5;
+}
+#rgb {
+  font-family: "Cute Font", sans-serif;
+  font-size: 60px;
+}
+#container {
+  max-width: 50%;
+  margin: auto;
+  margin-top: 35px;
+}
+.box {
+  background: #00FF7F;
+  width: 25%;
+  padding-bottom: 20%;
+  float: left;
+  margin: 4%;
+}
